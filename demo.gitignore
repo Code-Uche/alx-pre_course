@@ -1,0 +1,9 @@
+# ignore all .txt file
+*.txt
+
+# But track this file as an exception
+!important.txt
+
+# Ignore all files in build/ directory
+build/
+
